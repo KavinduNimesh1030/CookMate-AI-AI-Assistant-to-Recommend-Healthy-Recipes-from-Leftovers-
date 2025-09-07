@@ -1,4 +1,4 @@
-# 🍲 Healthy Recipe Finder – AI-Powered Cooking Assistant  
+# 🍲 CookMate AI  – AI Assistant to Recommend Healthy Recipes from Leftovers  
 
 This project is an **AI-powered recipe recommendation system** that helps users discover healthy and practical recipes based on the ingredients they already have at home. It combines **Flask (backend with AI/ML)** and **Vue.js (frontend)** into a full-stack application.  
 
